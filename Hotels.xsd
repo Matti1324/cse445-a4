@@ -17,7 +17,6 @@
       <xs:element name="Phone" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
       <xs:element name="Address" type="AddressType"/>
     </xs:sequence>
-    <xs:attribute name="id" type="xs:ID" use="required"/>
     <xs:attribute name="Rating" type="xs:decimal" use="optional"/>
   </xs:complexType>
 
@@ -29,8 +28,8 @@
       <xs:element name="City" type="xs:string"/>
       <xs:element name="State" type="xs:string"/>
       <xs:element name="Zip" type="xs:string"/>
-      <xs:element name="NearestAirport" type="xs:string"/>
     </xs:sequence>
+    <xs:attribute name="NearestAirport" type="xs:string" use="required"/>
   </xs:complexType>
 
 </xs:schema>

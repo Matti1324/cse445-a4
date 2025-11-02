@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+  <Hotel id="h1" Rating="4.0">
+    <Name>Westin</Name>
+    <Phone>480-923-3475</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="h2" Rating="4.4">
+    <Name>Four Points by Sheraton</Name>
+    <Phone>480-579-2100</Phone>
+    <Address>
+      <Number>6850</Number>
+      <Street>E Williams Field Rd</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85212</Zip>
+      <NearestAirport>Phoenix-Mesa Gateway</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="h3" Rating="4.6">
+    <Name>Arizona Biltmore</Name>
+    <Phone>602-955-6600</Phone>
+    <Address>
+      <Number>2400</Number>
+      <Street>E Missouri Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85016</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="h4" Rating="4.5">
+    <Name>Sheraton Grand at Wild Horse Pass</Name>
+    <Phone>602-225-0100</Phone>
+    <Address>
+      <Number>5594</Number>
+      <Street>W Wild Horse Pass Blvd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85226</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="h5" Rating="4.4">
+    <Name>Hampton Inn & Suites Glendale-Westgate</Name>
+    <Phone>623-271-7771</Phone>
+    <Address>
+      <Number>6630</Number>
+      <Street>N 95th Ave</Street>
+      <City>Glendale</City>
+      <State>AZ</State>
+      <Zip>85305</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="h6" Rating="4.3">
+    <Name>Home2 Suites by Hilton Gilbert</Name>
+    <Phone>480-857-4778</Phone>
+    <Address>
+      <Number>3333</Number>
+      <Street>S Market St</Street>
+      <City>Gilbert</City>
+      <State>AZ</State>
+      <Zip>85297</Zip>
+      <NearestAirport>Phoenix-Mesa Gateway</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="h7" Rating="4.4">
+    <Name>Courtyard by Marriott Phoenix-Mesa Gateway</Name>
+    <Phone>480-351-7088</Phone>
+    <Address>
+      <Number>6907</Number>
+      <Street>E Ray Rd</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85212</Zip>
+      <NearestAirport>Phoenix-Mesa Gateway</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="h8" Rating="4.6">
+    <Name>TownePlace Suites by Marriott Tempe</Name>
+    <Phone>520-536-8300</Phone>
+    <Address>
+      <Number>1929</Number>
+      <Street>E Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85288</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="h9" Rating="4.4">
+    <Name>Homewood Suites By Hilton Phoenix Tempe ASU Area</Name>
+    <Phone>480-966-2780</Phone>
+    <Address>
+      <Number>66</Number>
+      <Street>S Rockford Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85288</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel id="h10" Rating="4.4">
+    <Name>Hotel Valley Ho</Name>
+    <Phone>480-376-2600</Phone>
+    <Address>
+      <Number>6850</Number>
+      <Street>E Main St</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+</Hotels>

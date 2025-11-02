@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-  <Hotel id="h1" Rating="4.0">
-    <Name>Westin</Name>
-    <Phone>480-923-3475</Phone>
-    <Phone>800-937-8461</Phone>
-    <Address>
-      <Number>11</Number>
-      <Street>E 7th St</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
-    </Address>
+  <Hotel>
+  <Name>Westin</Name>
+  <Phone>480-968-8885</Phone>
+  <Phone>800-937-8461</Phone>
+  <Address>
+    <Number>11</Number>
+    <Street>E 7th St</Street>
+    <City>Tempe</City>
+    <State>AZ</State>
+    <Zip>85281</Zip>
+    <NearestAirport>Sky Habor</NearestAirport>
+  </Address>
+  <Rating>4.2</Rating>
   </Hotel>
+
 
   <Hotel id="h2">
     <Name>Four Points by Sheraton</Name>

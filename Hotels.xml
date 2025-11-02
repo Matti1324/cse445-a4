@@ -13,7 +13,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h2" Rating="4.4">
+  <Hotel id="h2">
     <Name>Four Points by Sheraton</Name>
     <Phone>480-579-2100</Phone>
     <Address>
@@ -42,6 +42,7 @@
   <Hotel id="h4" Rating="4.5">
     <Name>Sheraton Grand at Wild Horse Pass</Name>
     <Phone>602-225-0100</Phone>
+    <Phone>800-946-4452</Phone>
     <Address>
       <Number>5594</Number>
       <Street>W Wild Horse Pass Blvd</Street>
@@ -68,6 +69,7 @@
   <Hotel id="h6" Rating="4.3">
     <Name>Home2 Suites by Hilton Gilbert</Name>
     <Phone>480-857-4778</Phone>
+    <Phone>480-360-8233</Phone>
     <Address>
       <Number>3333</Number>
       <Street>S Market St</Street>
@@ -78,7 +80,7 @@
     </Address>
   </Hotel>
 
-  <Hotel id="h7" Rating="4.4">
+  <Hotel id="h7>
     <Name>Courtyard by Marriott Phoenix-Mesa Gateway</Name>
     <Phone>480-351-7088</Phone>
     <Address>

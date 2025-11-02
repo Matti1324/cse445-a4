@@ -3,6 +3,7 @@
   <Hotel id="h1" Rating="4.0">
     <Name>Westin</Name>
     <Phone>480-923-3475</Phone>
+    <Phone>800-937-8461</Phone>
     <Address>
       <Number>11</Number>
       <Street>E 7th St</Street>
